@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ot4c9o.indocuansite.online/sitemap.xml
